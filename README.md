@@ -7,7 +7,7 @@ This single-page site features a timeless quote wrapped in semantic elegance.
 
 ## 📁 Structure
 
-quote/ 
+quote
 └── index.html
 
 
